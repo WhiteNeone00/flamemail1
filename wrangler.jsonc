@@ -52,7 +52,7 @@
 	},
 	"routes": [
 		{
-			"pattern": "mail.ryzeon.lol",
+			"pattern": "mail.whee.lol",
 			"custom_domain": true,
 		},
 	],
