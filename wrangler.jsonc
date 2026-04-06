@@ -52,7 +52,7 @@
 	},
 	"routes": [
 		{
-			"pattern": "flamemail.devbin.tools",
+			"pattern": "mail.ryzeon.lol",
 			"custom_domain": true,
 		},
 	],
